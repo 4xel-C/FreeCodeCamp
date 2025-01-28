@@ -26,7 +26,7 @@ class Equation(ABC):
         # creating the coefficients attributes dictionnary depending number of arguments and their order (highest coefficient fist)
         self.coefficients = {(len(args) - n - 1): arg for n, arg in enumerate(args)}
 
-# Code run when a subclass (cls) is instancied: check if the new created class has a degree and a type attribute
+    # Code run when a subclass (cls) is instancied: check if the new created class has a degree and a type attribute
     def __init_subclass__(cls):
         if not hasattr(cls, "degree"):
             raise AttributeError(
