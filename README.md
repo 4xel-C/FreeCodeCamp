@@ -13,18 +13,18 @@ In this repository, you will find all the FreeCodeCamp exercices and certificati
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/> Scientific Computing with Python
 
-- **[Budget App](/python/budget_app/)**: A *Certification project* made using python *OOP* to keep track of expenses from different categories.
-- **[Equation resolver](/python/equation_resolver/)**: Python project to solve equation (Linear and Quadratic) using abstract classes as blueprint.
-- **[Merge-sort array](/python/merge_sort_array/)**: Implementation in Python of the merge-sort algorithm.
-- **[Probability calculator](/python/probability_calculator/)**: Python code to calculate the probability of drawing certain numbers from a hat using 'random' module.
-- **[Projectile calculator](/python/projectile_calculator/)**: A python code to simulates the motion of a projectile considering initial speed with a graphic representation.
-- **[Vector calculator](/python/vector_calculator/)**: A python program to make vector calculation using *operator overloading*.
+- **[Budget App](/Python/budget_app/)**: A *Certification project* made using python *OOP* to keep track of expenses from different categories.
+- **[Equation resolver](/Python/equation_resolver/)**: Python project to solve equation (Linear and Quadratic) using abstract classes as blueprint.
+- **[Merge-sort array](/Python/merge_sort_array/)**: Implementation in Python of the merge-sort algorithm.
+- **[Probability calculator](/Python/probability_calculator/)**: Python code to calculate the probability of drawing certain numbers from a hat using 'random' module.
+- **[Projectile calculator](/Python/projectile_calculator/)**: A python code to simulates the motion of a projectile considering initial speed with a graphic representation.
+- **[Vector calculator](/Python/vector_calculator/)**: A python program to make vector calculation using *operator overloading*.
 
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50X"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50px"/>  Data Analysis with Python
 
-- **[Demographic data analyzer](/data_analysis/demographic-data-analyzer/)**: Use of pandas to analyse a dataset containing demographic informations.
-- **[Mean variance calculator](/data_analysis/mean-variance-standard-deviation-calc/)**: Using Numpy to calculate various property of a matrix.
-- **[Medical data visualizer](/data_analysis/medical-data-visualizer/)**: Use of pandas, matplotlib and seaborn to analyse a draw graph on a dataset containing medical information.
-- **[Sea level predictor](/data_analysis/sea-level-predictor/)**: Use of pandas, seaborn and scipy to analasye sea level and predict future level by using linear regression.
-- **[Time series vizualizer](/data_analysis/time-series-visualizer/)**: Use of pandas, matplotlib and seaborn to vizualize time series over a data set containing the number of page views each day on the freeCodeCamp.org site/.
+- **[Demographic data analyzer](/Data_analysis/demographic-data-analyzer/)**: Use of pandas to analyse a dataset containing demographic informations.
+- **[Mean variance calculator](/Data_analysis/mean-variance-standard-deviation-calc/)**: Using Numpy to calculate various property of a matrix.
+- **[Medical data visualizer](/Data_analysis/medical-data-visualizer/)**: Use of pandas, matplotlib and seaborn to analyse a draw graph on a dataset containing medical information.
+- **[Sea level predictor](/Data_analysis/sea-level-predictor/)**: Use of pandas, seaborn and scipy to analasye sea level and predict future level by using linear regression.
+- **[Time series vizualizer](/Data_analysis/time-series-visualizer/)**: Use of pandas, matplotlib and seaborn to vizualize time series over a data set containing the number of page views each day on the freeCodeCamp.org site/.
